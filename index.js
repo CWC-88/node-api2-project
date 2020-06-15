@@ -1,6 +1,6 @@
 const express = require('express')
 const postRoute = require('./post/postroute')
-
+const port = 4000
 const server = express();
 
 
